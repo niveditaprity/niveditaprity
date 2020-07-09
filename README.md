@@ -26,8 +26,7 @@ I had solved 1000+ problems on geeksforgeeks ,Hackerrank,Codechef,Codeforces,Lee
   
   
   -📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
-  
-  [Twitter](https://twitter.com/nivedit08422106)
+           - [Twitter](https://twitter.com/nivedit08422106)
 <!--
 **niveditaprity/niveditaprity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
