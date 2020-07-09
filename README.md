@@ -9,7 +9,8 @@ In-depth knowledge of data structures, algorithms, object-oriented programming, 
  - Muzaffarpur Institute of Technology
    - Bachelor of Technology,Information Technology
    2017-2021
--📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
+  
+  -📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
 <!--
 **niveditaprity/niveditaprity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
