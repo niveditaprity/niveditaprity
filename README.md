@@ -1,4 +1,5 @@
 ### Hi there 👋
+![alt text](https://media-exp1.licdn.com/dms/image/C5103AQGJjgCHu9j45A/profile-displayphoto-shrink_100_100/0?e=1599696000&v=beta&t=F8j0dNAiyDVJxWut93x1_CwZ9LrR_uNZc4jDF4z3UwM)
 
 Hi I'm Nivedita Kumari.I'm a Software Developer who is currently pursuing B.Tech and pre-final year Student.
 
