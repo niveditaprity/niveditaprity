@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Hi I'm Nivedita Kumari.I'm a Software Developer who is currently pursuing B.Tech and pre-final year Student.
 <!--
 **niveditaprity/niveditaprity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
