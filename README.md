@@ -1,9 +1,10 @@
 ### Hi there 👋
 
 Hi I'm Nivedita Kumari.I'm a Software Developer who is currently pursuing B.Tech and pre-final year Student.
+
 In-depth knowledge of data structures, algorithms, object-oriented programming, operating systems, and distributed systems. I have implementation of simple to complex data structures including trees, maps, graphs and familiar with an algorithm like Dijkstra's, DFS, BFS, Hashing along with space and time complexities.
-</n>
-📫 How to reach me: https://www.linkedin.com/in/nivedita-kumari-47a469163/
+
+-📫 How to reach me: https://www.linkedin.com/in/nivedita-kumari-47a469163/
 <!--
 **niveditaprity/niveditaprity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
