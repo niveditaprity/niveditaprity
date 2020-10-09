@@ -9,4 +9,7 @@
            - [Twitter](https://twitter.com/nivedit08422106)
            
            
-  ![Github stats](https://github-readme-stats.vercel.app/api?username=niveditaprity)
+<summary>📈 My GitHub Stats</summary>
+
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niveditaprity&show_icons=true&theme=gotham" alt="niveditaprity" />
+
