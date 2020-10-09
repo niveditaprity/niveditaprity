@@ -7,4 +7,5 @@
 - 💬 Ask me about ...
 -📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
            - [Twitter](https://twitter.com/nivedit08422106)
-<img src="
+           
+<img src="![Github stats](https://github-readme-stats.vercel.app/api?username=niveditaprity)">
