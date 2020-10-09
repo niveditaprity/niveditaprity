@@ -9,4 +9,4 @@
            - [Twitter](https://twitter.com/nivedit08422106)
            
            
-   <img src="![Github stats](https://github-readme-stats.vercel.app/api?username=niveditaprity)">
+  ![Github stats](https://github-readme-stats.vercel.app/api?username=niveditaprity)
