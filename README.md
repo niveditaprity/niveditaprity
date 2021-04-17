@@ -24,6 +24,6 @@
 </div>
 <div align="center">
 <code><img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/index.html"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/django/django-horizontal.svg"></code>
 </div>
 
