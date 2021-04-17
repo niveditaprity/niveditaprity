@@ -13,8 +13,6 @@
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niveditaprity&show_icons=true&theme=gotham" alt="niveditaprity" />
            
-           
-    <br />
 
 ### Languages and Tools
 
@@ -34,6 +32,4 @@
 <code><img height="50" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg
 "></code>
 </div>
-
-<br/><br/>
 
