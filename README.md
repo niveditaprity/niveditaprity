@@ -1,8 +1,7 @@
 ### Hi there 👩‍🎓
            
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning Django
-- 👯 I’m looking to collaborate on ...
+- 🔭 I’m currently working on Django+Python,MERN Stack
+- 👯 I’m looking for full time opportunities
 - 🤔 I’m looking for help with Documentation
 - 💬 Ask me about Anything 
 -📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
