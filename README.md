@@ -1,11 +1,12 @@
 ### Hi there 👩‍🎓
            
-- 🔭 I’m currently working on Django+Python,MERN Stack
-- 👯 I’m looking for full time opportunities
-- 🤔 I’m looking for help with Documentation
+- 🔭 I’m a Software Developer-1 at Argoid Analytics
+- 👯 I’m  currently running a DSA BootCamp 
 - 💬 Ask me about Anything 
 -📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
            - [Twitter](https://twitter.com/nivedit08422106)
+           - [YouTube](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
+           - [Instagram](https://www.instagram.com/tech_adora/)
            
            
 <summary>📈 My GitHub Stats</summary>
