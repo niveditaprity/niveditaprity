@@ -6,13 +6,13 @@
 -📫 How to reach me:
 
 
-[![GitHub Thaiane](https://img.shields.io/github/followers/niveditaprity?label=follow&style=social)](https://github.com/niveditaprity)
+[![GitHub Nivedita](https://img.shields.io/github/followers/niveditaprity?label=follow&style=social)](https://github.com/niveditaprity)
 
 [![LinkedIn](https://img.shields.io/badge/-nivedita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivedita-kumari-47a469163/)](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
 
 [![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedita?style=social)](https://twitter.com/nivedit08422106)
 
-[![YouTube:Nivedita](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
+[![YouTube:Nivedita](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg?style=social)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
 [![Instagram:Nivedita]](https://www.instagram.com/tech_adora/)
            
            
