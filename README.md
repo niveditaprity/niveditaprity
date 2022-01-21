@@ -12,7 +12,7 @@
 
 [![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedita?style=social)](https://twitter.com/nivedit08422106)
 
-[![YouTube:Nivedita](https://img.shields.io/youtube/channel/subscribers/https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg?style=social)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
+[![YouTube:Nivedita](https://img.shields.io/youtube/channel/subscribers/UCXvLMx5SFLUDuGweg-ZnfSg?style=plastic)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
 [![Instagram:Nivedita]](https://www.instagram.com/tech_adora/)
            
            
