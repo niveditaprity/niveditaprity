@@ -17,20 +17,20 @@
 ### Languages and Tools
 
 <div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/apache_spark/apache_spark-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
            
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/angular/angular-icon.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/java/java-vertical.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/angular/angular-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-horizontal.svg"></code>
 </div>
 <div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/mysql/mysql-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>     
 </div>
 <div align="center">
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jupyter/jupyter-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/scala-lang/scala-lang-ar21.svg"></code>
-<code><img height="50" src="https://www.vectorlogo.zone/util/preview.html?image=/logos/jquery/jquery-ar21.svg"></code>       
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-ar21.svg"></code>
+<code><img height="50" src="https://www.vectorlogo.zone/logos/jquery/jquery-ar21.svg"></code>       
 </div>
 
