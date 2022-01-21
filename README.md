@@ -6,14 +6,15 @@
 -📫 How to reach me:
 
 
-[![GitHub Nivedita](https://img.shields.io/github/followers/niveditaprity?label=follow&style=social)](https://github.com/niveditaprity)
+[![GitHub: Nivedita](https://img.shields.io/github/followers/niveditaprity?label=follow&style=social)](https://github.com/niveditaprity)
 
-[![LinkedIn](https://img.shields.io/badge/-nivedita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivedita-kumari-47a469163/)](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
+[![LinkedIn: Nivedita ](https://img.shields.io/badge/-nivedita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivedita-kumari-47a469163/)](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
 
-[![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedita?style=social)](https://twitter.com/nivedit08422106)
+[![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedit08422106?style=social)](https://twitter.com/nivedit08422106)
 
-[![YouTube:Nivedita](https://img.shields.io/youtube/channel/subscribers/UCXvLMx5SFLUDuGweg-ZnfSg?style=plastic)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
-[![Instagram:Nivedita]](https://www.instagram.com/tech_adora/)
+[![YouTube: Nivedita](https://img.shields.io/youtube/channel/subscribers/UCXvLMx5SFLUDuGweg-ZnfSg?style=plastic)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
+
+[Instagram: Nivedita](https://www.instagram.com/tech_adora/)
            
            
 <summary>📈 My GitHub Stats</summary>
