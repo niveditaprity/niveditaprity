@@ -13,11 +13,7 @@
 
 [![YouTube: Nivedita](https://img.shields.io/youtube/channel/subscribers/UCXvLMx5SFLUDuGweg-ZnfSg?style=plastic)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
 
-[Instagram: Nivedita](https://www.instagram.com/tech_adora/)
-           
-           
 <summary>📈 My GitHub Stats</summary>
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=niveditaprity&show_icons=true&theme=gotham" alt="niveditaprity" />
            
 ### Languages and Tools
