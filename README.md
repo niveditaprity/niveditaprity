@@ -1,6 +1,6 @@
 ### Hi there 👩‍🎓
            
-- 🔭 I’m a Software Developer-1 at Argoid Analytics
+- 🔭 I’m a Software Developer-1 at BetterPlace
 - 👯 I’m  currently running a DSA BootCamp 
 - 💬 Ask me about Anything 
 -📫 How to reach me:
