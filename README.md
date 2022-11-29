@@ -9,7 +9,7 @@
 
 [![LinkedIn: Nivedita ](https://img.shields.io/badge/-nivedita-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nivedita-kumari-47a469163/)](https://www.linkedin.com/in/nivedita-kumari-47a469163/)
 
-[![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedit08422106?style=social)](https://twitter.com/nivedit08422106)
+[![Twitter: Nivedita](https://img.shields.io/twitter/follow/nivedit08422106?style=social)](https://twitter.com/niveditaprity)
 
 [![YouTube: Nivedita](https://img.shields.io/youtube/channel/subscribers/UCXvLMx5SFLUDuGweg-ZnfSg?style=plastic)](https://www.youtube.com/channel/UCXvLMx5SFLUDuGweg-ZnfSg)
 
